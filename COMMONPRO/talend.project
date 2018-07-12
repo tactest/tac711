@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_zi5aYXMkEea2QtDRiJ4O5A" label="commonpro" description="" language="java" technicalLabel="COMMONPRO" creationDate="2016-09-05T12:52:23.440+0800" author="_zi5aYnMkEea2QtDRiJ4O5A" productVersion="Talend Data Fabric-6.1.2.20160902_0206-SNAPSHOT" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://ldwang@192.168.31.20:9443/r/test61.git&quot;,&quot;login&quot;:&quot;ldwang&quot;,&quot;passwd&quot;:&quot;r/iZep7Lw4k=&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="MDM" itemsRelationVersion="1.3">
+  <TalendProperties:Project xmi:id="_zi5aYXMkEea2QtDRiJ4O5A" label="commonpro" description="" language="java" technicalLabel="COMMONPRO" creationDate="2016-09-05T12:52:23.440+0800" author="_zi5aYnMkEea2QtDRiJ4O5A" productVersion="Talend Data Fabric-7.1.1.20180710_1933-SNAPSHOT" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/tactest/tac711&quot;,&quot;login&quot;:&quot;tacqa@outlook.com&quot;,&quot;passwd&quot;:&quot;AuxJx96wnlARjXj61mj+OA==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
     <technicalStatus xmi:id="_0Cv_IHMkEea2QtDRiJ4O5A" label="development" code="DEV"/>
     <technicalStatus xmi:id="_0CwmMHMkEea2QtDRiJ4O5A" label="testing" code="TEST"/>
     <technicalStatus xmi:id="_0CwmMXMkEea2QtDRiJ4O5A" label="production" code="PROD"/>
@@ -1303,4 +1303,6 @@
     <migrationTask xmi:id="_0W0yzXMkEea2QtDRiJ4O5A" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_zi5aYnMkEea2QtDRiJ4O5A" login="admin@company.com" firstName="admin" lastName="admin" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_d9YAAYWIEeiHi_ZOsHj6SQ" login="security@company.com" firstName="security" lastName="security" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_d9YAAoWIEeiHi_ZOsHj6SQ" login="security@company.com" firstName="security" lastName="security" type="DI" additionnalData="{}"/>
 </xmi:XMI>
