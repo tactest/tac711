@@ -8,6 +8,53 @@
   <packaging>pom</packaging>
   <name>COMMONPRO Codes Master</name>
   <url>http://www.talend.org/</url>
+  <modules>
+    <module>jobs/process/createtableinhdfs_0.1</module>
+    <module>jobs/process/jobindifferentbranchwithsamenamecanbesearched_0.1</module>
+    <module>jobs/process/tdiqa6603_0.1</module>
+    <module>jobs/process/childjob_0.1</module>
+    <module>jobs/process/delete_0.1</module>
+    <module>jobs/process/generatebiglogs_0.1</module>
+    <module>jobs/process/grandfather_0.1</module>
+    <module>jobs/process/jobcallcontextcontainbackslash_0.1</module>
+    <module>jobs/process/jobroutine_0.1</module>
+    <module>jobs/process/multitrunjob/father1_0.1</module>
+    <module>jobs/process/multitrunjob/father2_0.1</module>
+    <module>jobs/process/multitrunjob/father3_0.1</module>
+    <module>jobs/process/multitrunjob/father4_0.1</module>
+    <module>jobs/process/multitrunjob/father5_0.1</module>
+    <module>jobs/process/multitrunjob/father6_0.1</module>
+    <module>jobs/process/multitrunjob/father7_0.1</module>
+    <module>jobs/process/multitrunjob/father8_0.1</module>
+    <module>jobs/process/multitrunjob/grandchild1_0.1</module>
+    <module>jobs/process/multitrunjob/grandchild2_0.1</module>
+    <module>jobs/process/multitrunjob/grandchild3_0.1</module>
+    <module>jobs/process/multitrunjob/grandchild4_0.1</module>
+    <module>jobs/process/multitrunjob/grandchild5_0.1</module>
+    <module>jobs/process/multitrunjob/grandchild6_0.1</module>
+    <module>jobs/process/multitrunjob/grandchild7_0.1</module>
+    <module>jobs/process/multitrunjob/grandchild8_0.1</module>
+    <module>jobs/process/multitrunjob/grandfather1_0.1</module>
+    <module>jobs/process/oracle_amc_0.1</module>
+    <module>jobs/process/refjobbymaintrunjobrun_0.1</module>
+    <module>jobs/process/subfolder/dynamic_trun_bug_0.1</module>
+    <module>jobs/process/subfolder/father_0.1</module>
+    <module>jobs/process/subfolder/jobtjavaunderfolder_0.1</module>
+    <module>jobs/process/subfolder/trun_bug1_0.1</module>
+    <module>jobs/process/subfolder/trun_bug2_0.1</module>
+    <module>jobs/process/trunjobcontainsmrjob_0.1</module>
+    <module>jobs/process/trunjob_0.1</module>
+    <module>jobs/process/tjavawithmulriplecheckpoint_0.1</module>
+    <module>jobs/process/tjavawithmulriplecheckpoint_2.0</module>
+    <module>jobs/process/tjava_0.1</module>
+    <module>jobs/process/tjava_0.2</module>
+    <module>jobs/process/tpp_0.1</module>
+    <module>jobs/process/trunjobwithcheckpoint_0.1</module>
+    <module>jobs/process/trunjob_comamnd_0.1</module>
+    <module>jobs/process/tsleep100_seconds_0.1</module>
+    <module>jobs/process/tsleep30_seconds_0.1</module>
+    <module>jobs/process/tt_0.1</module>
+  </modules>
   <properties>
     <talend.project.name>COMMONPRO</talend.project.name>
     <encoding>UTF-8</encoding>
