@@ -1102,7 +1102,6 @@
     <migrationTask xmi:id="_0W0yBHMkEea2QtDRiJ4O5A" id="org.talend.designer.mapper.migration.TMapSaveToEmfMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_0W0yBXMkEea2QtDRiJ4O5A" id="org.talend.designer.dbmap.migration.ELTMapSaveToEmfMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_0W0yBnMkEea2QtDRiJ4O5A" id="org.talend.designer.xmlmap.migration.TXMLMapChangeAllInOneValueMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
-    <migrationTask xmi:id="_0W0yB3MkEea2QtDRiJ4O5A" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_0W0yCHMkEea2QtDRiJ4O5A" id="org.talend.repository.model.migration.ResetValuetInfiniteLoop" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_0W0yCXMkEea2QtDRiJ4O5A" id="org.talend.repository.model.migration.UpgrateDatabaseTypeForSybaseConnection" breaks="5.1.1" version="5.1.2" status="ok"/>
     <migrationTask xmi:id="_0W0yCnMkEea2QtDRiJ4O5A" id="org.talend.repository.model.migration.RenamePasswordParaForLdapMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
@@ -1301,6 +1300,14 @@
     <migrationTask xmi:id="_0W0yy3MkEea2QtDRiJ4O5A" id="org.talend.repository.model.migration.UpdateELTComponentMigrationTask" breaks="6.1.1" version="6.1.2" status="noimpact"/>
     <migrationTask xmi:id="_0W0yzHMkEea2QtDRiJ4O5A" id="org.talend.repository.model.migration.ChangeDBVersionValue4BonitaComponents" breaks="6.1.1" version="6.1.2" status="noimpact"/>
     <migrationTask xmi:id="_0W0yzXMkEea2QtDRiJ4O5A" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
+    <migrationTask xmi:id="_hCogwIWIEeiHi_ZOsHj6SQ" id="org.talend.repository.model.migration.ChangeMappingFileMigrationTask" breaks="6.2.1" version="6.2.2" status="ok"/>
+    <migrationTask xmi:id="_hCogwYWIEeiHi_ZOsHj6SQ" id="org.talend.repository.model.migration.AddJavaVersionMigrationTask" breaks="6.3.1" version="6.4.0" status="noimpact"/>
+    <migrationTask xmi:id="_hCogwoWIEeiHi_ZOsHj6SQ" id="org.talend.repository.model.migration.ResetMavenTemplateMigrationTask" breaks="6.5.0" version="6.5.0" status="ok"/>
+    <migrationTask xmi:id="_hCogw4WIEeiHi_ZOsHj6SQ" id="org.talend.repository.model.migration.UpdateToJava8VersionMigrationTask" version="6.5.1" status="noimpact"/>
+    <migrationTask xmi:id="_hCogxIWIEeiHi_ZOsHj6SQ" id="org.talend.repository.model.migration.AddProductValuesItemMigrationTask" breaks="6.5.0" version="6.5.0" status="noimpact"/>
+    <migrationTask xmi:id="_hCogxYWIEeiHi_ZOsHj6SQ" id="org.talend.repository.model.migration.UpdateGitIgnoreMigrationTask" version="7.0.1" status="ok"/>
+    <migrationTask xmi:id="_hCogxoWIEeiHi_ZOsHj6SQ" id="org.talend.designer.core.generic.model.migration.ChangeDriverJarForProjectSetting" breaks="7.0.1" version="7.0.1" status="noimpact"/>
+    <migrationTask xmi:id="_hCogx4WIEeiHi_ZOsHj6SQ" id="org.talend.repository.model.migration.RepositoryProjectDateMigrationTask" breaks="7.0.0" version="7.0.0" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_zi5aYnMkEea2QtDRiJ4O5A" login="admin@company.com" firstName="admin" lastName="admin" type="MDM" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_d9YAAYWIEeiHi_ZOsHj6SQ" login="security@company.com" firstName="security" lastName="security" type="DI" additionnalData="{}"/>

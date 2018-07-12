@@ -340,3 +340,12 @@
  * Task [ChangeDBVersionValue4BonitaComponents] : Nothing to do
  * Task [AutoUpdateRelationsMigrationTask] : Nothing to do
  ---=== End of migration ===---
+ ---=== Start Migration of project commonpro ===---
+ * Task [ChangeMappingFileMigrationTask] : Applied successfully
+ * Task [AddJavaVersionMigrationTask] : Nothing to do
+ * Task [ResetMavenTemplateMigrationTask] : Applied successfully
+ * Task [UpdateToJava8VersionMigrationTask] : Nothing to do
+ * Task [Add Product Values] : Nothing to do
+ * Task [UpdateGitIgnoreMigrationTask] : Applied successfully
+ * Task [ChangeDriverJarForProjectSetting] : Nothing to do
+ * Task [RepositoryProjectDate] : Nothing to do
