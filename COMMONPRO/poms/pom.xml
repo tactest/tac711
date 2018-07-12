@@ -54,6 +54,7 @@
     <module>jobs/process/tsleep100_seconds_0.1</module>
     <module>jobs/process/tsleep30_seconds_0.1</module>
     <module>jobs/process/tt_0.1</module>
+    <module>code/routines</module>
   </modules>
   <properties>
     <talend.project.name>COMMONPRO</talend.project.name>
